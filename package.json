@@ -1,0 +1,29 @@
+{
+  "name": "@census-reworked/stream-types",
+  "version": "1.0.0",
+  "description": "Types related to the Planetside 2 Census stream",
+  "main": "",
+  "types": "index.d.ts",
+  "scripts": {},
+  "files": [
+    "index.d.ts",
+    "package.json",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanite-systems/stream-types.git"
+  },
+  "contributors": [
+    {
+      "name": "Microwavekonijn",
+      "url": "https://github.com/microwavekonijn",
+      "githubUsername": "microwavekonijn"
+    }
+  ],
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/nanite-systems/stream-types/issues"
+  },
+  "homepage": "https://github.com/nanite-systems/stream-types#readme"
+}
